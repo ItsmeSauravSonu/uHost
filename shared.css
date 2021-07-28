@@ -11,11 +11,14 @@ body{
     background: #2ddf5c;
     padding: 8px 16px;
     width: 100%;
+    
 }
 
 .main-header > div{
 display: inline-block;
 vertical-align: middle;
+
+
 }
 
 .main-header__brand{
@@ -31,6 +34,7 @@ vertical-align: middle;
     text-align: right;
     width: calc(100% - 74px);
     vertical-align: middle;
+    
 }
 
 .main-nav__items {
@@ -41,6 +45,7 @@ vertical-align: middle;
 
 .main-nav__item{
     display: inline-block;
+    
     margin: 0 16px;
 }
 
