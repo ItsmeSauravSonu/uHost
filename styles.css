@@ -1,13 +1,16 @@
 
 
 #product-overview{
-    background: url("freedom.jpg");
+    background: url("images/freedom.jpg");
     background-size: cover;
     background-repeat: no-repeat;
+    background-origin:border-box;
+    background-clip: border-box;
     background-position: left 10% bottom 20%;
     width: 100%;
     height: 528px;
     padding: 10px;
+    border: 5px dashed #ff1b68;
 }
 
 .section-title{
